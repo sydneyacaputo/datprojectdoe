@@ -26,12 +26,12 @@ idea still in the works but thinking of having the user put in ingredients and t
 ###https://github.com/mchaiken/yummly.git
 
 ##Mini Projects
-*login
-  *Sydney Caputo, Andrew Sikowtiz
-  *5/login/sydney_andrew
-*regex
-  *Sydney Caputo, Vanessa Yan
-  *5/regexp/caputo_yan
-*intro-proj 1
+* login
+  * Sydney Caputo, Andrew Sikowtiz
+  * 5/login/sydney_andrew
+* regex
+  * Sydney Caputo, Vanessa Yan
+  * 5/regexp/caputo_yan
+* intro-proj 1
   * Sydney Caputo, Chesley Tan
   * /5/intro-proj1/chesley_sydney
